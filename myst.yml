@@ -1,0 +1,16 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 1ed50e7f-990a-4500-937c-eed296f62c6a
+  title: Ejercicio 1 | Corte 1
+  description: Introducción a la manipulación de datos con Python
+  keywords:
+    - jupyter-book
+    - something-else
+  # github: captain-jupyter/my-book
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
